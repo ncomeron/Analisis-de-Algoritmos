@@ -14,8 +14,8 @@ public class sinEspacios1 {
  // texto pero eliminando todos los espacios en blanco
     public static void main(String[] args) {
 
-        String nombreArchivoEntrada = "mate.txt";
-        String nombreArchivoSalida = "sinEspacios1.txt";
+        String nombreArchivoEntrada = "src/tp0/entradaSalida/mate.txt";
+        String nombreArchivoSalida = "src/tp0/entradaSalida/sinEspacios1.txt";
 
         String linea = null;
 
