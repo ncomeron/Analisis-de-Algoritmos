@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Random;
 
 public class cadenasAlea4 {
-  static final String NOMBRE_ARCHIVO = "cadenasAleatorias.txt";
+  static final String NOMBRE_ARCHIVO = "src/entradaSalida/cadenasAleatorias.txt";
   static final int CANTIDAD_CADENAS = 50;
   static final int LONGITUD_CADENA = 10;
 
