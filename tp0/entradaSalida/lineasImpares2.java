@@ -11,8 +11,8 @@ public class lineasImpares2 {
      // ( mate.txt) y genera un archivo de salida (lineasImpares.txt) con las 
     // lineas impares del texto
     public static void main(String[] args) {
-        String nombreArchivoEntrada = "mate.txt";
-        String nombreArchivoSalida = "lineasImpares.txt";
+        String nombreArchivoEntrada = "src/tp0/entradaSalida/mate.txt";
+        String nombreArchivoSalida = "src/tp0/entradaSalida/lineasImpares.txt";
     
         String linea = null;
 
