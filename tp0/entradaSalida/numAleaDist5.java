@@ -10,7 +10,7 @@ import java.util.Random;
 //con numeros aleatorios en un rango del 1 al 1000, sin repetirse entre si.
 public class numAleaDist5 {
 
-  static final String NOMBRE_ARCHIVO = "numerosRandom100.txt";
+  static final String NOMBRE_ARCHIVO = "src/tp0/entradaSalida/numerosRandom100.txt";
   static final int arrNum[] = new int[1000];
 
   private static void generarArchivo() {
