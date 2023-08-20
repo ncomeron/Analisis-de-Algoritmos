@@ -13,7 +13,7 @@ public class genera100Alea3 {
 
   // Genera un archivo de texto numeros.txt con valores numericos de tipo
   // double en un rango de -100 y 100, elegidos aleatoriamente.
-  static final String NOMBRE_ARCHIVO = "numeros.txt";
+  static final String NOMBRE_ARCHIVO = "src/tp0/entradaSalida/numeros.txt";
 
   private static void generarArchivo() {
     try {
