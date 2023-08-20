@@ -1,0 +1,5 @@
+Juan 10 7 9 10 9
+Candela 10 9 9 10 9
+Jose 8 8 7 8 7
+Roberto 9 7 9 8 7
+Leticia 10 10 10 10 10

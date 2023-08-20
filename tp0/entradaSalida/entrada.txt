@@ -1,0 +1,6 @@
+﻿Este archivo de entrada tiene varias palabras - Linea 1.
+Este archivo de entrada tiene varias palabras - Linea 2.
+Este archivo de entrada tiene varias palabras - Linea 3.
+Este archivo de entrada tiene varias palabras - Linea 4.
+Este archivo de entrada tiene varias palabras - Linea 5.
+
